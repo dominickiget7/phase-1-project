@@ -14,7 +14,7 @@ body{
     color: white;
     padding: 2em;
 @@ -23,6 +24,7 @@ body{
-    color: aqua;
+    color: blue;
 
 }
 
@@ -39,5 +39,5 @@ input.barsearch{
 
  body{
     background-color:
-     lightblue;
+     black;
  }
