@@ -10,7 +10,7 @@ body{
 
 .card{
  .card{
-    background-color: #000000d0;
+    background-color: blue;
     color: white;
     padding: 2em;
 @@ -23,6 +24,7 @@ body{
@@ -29,9 +29,15 @@ input.barsearch{
     padding: 1.2em 1.2em;
     border-radius: 28px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 100%;
+    font-size; 100%;
     width: calc(100%-100px);
 
 
-}
+ }
 
+
+
+ body{
+    background-color:
+     lightblue;
+ }
